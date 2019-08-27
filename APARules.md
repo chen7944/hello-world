@@ -38,9 +38,9 @@ The two main bibliography formats used are APA (American Psychological Associati
 
 ## __**APA Bibliography Style Formatting**__
 
-The **title of your bibliography** should be: **References**\
-Some Examples:
+The **title of your bibliography** should be: **References**
 
+  Some Examples:
 __**ONE AUTHOR**__\
 Author, A. (Date). *Title*(Edition). Place: Publisher.
 

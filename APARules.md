@@ -38,40 +38,40 @@ The two main bibliography formats used are APA (American Psychological Associati
 
 ## __**APA Bibliography Style Formatting**__
 
-The **title of your bibliography** should be: **References**
-Some Examples:
+The **title of your bibliography** should be: **References**\
+Some Examples:\
 
-__**ONE AUTHOR**__
+__**ONE AUTHOR**__\
 Author, A. (Date). *Title*(Edition). Place: Publisher.
 
 Rosenthal, R. (1987). *Meta-analytical procedures for social research* (rev. ed.). Newbury Park, CA: Sage.
 
-__**TWO OR MORE AUTHORS**__
+__**TWO OR MORE AUTHORS**__\
 List up to six authors, then add 'et al.' if there are more:
 
 DeMarcos, D.J., Alexander, T.G., Turner, W.G., & Zebrinsky, R.T., et al. (1998). *Memory function in patients with Alzheimer's*. New York: Harbinger Press.
 
-__**ENCYCLOPEDIA OR DICTIONARY**__
+__**ENCYCLOPEDIA OR DICTIONARY**__\
 Author, A. (year). Title of work. *Title of encyclopedia/dictionary* (pages). Place: Publisher.
 
 Jary, D., & Jary, J. (1991). Ethno Methodology. *In the HarperCollins dictionary of Sociology* (pp.  153-154.) New York: HarperCollins.
 
-__**MAGAZINE OR JOURNAL ARTICLE**__
+__**MAGAZINE OR JOURNAL ARTICLE**__\
 Author, A. (year). Title of article. *Title of Magazine*, volume (issue), pages.
 
 Wilcox, R.V. (1991). Shifting roles and synthetic women in Star Trek: The Next Generation. *Studies in Popular Culture*, 13(2), 53-56.
 
-__**NEWSPAPER ARTICLE**__
+__**NEWSPAPER ARTICLE**__\
 Author(s). Date. Title of article. *Newspaper Title*, page number.
 
 Stevenson, J.T. (2003, December 17). Depression contributes to weight gain in adolescents. *The Toronto Star*, p. D17.
 
-__**PERSONAL INTERVIEW**__
+__**PERSONAL INTERVIEW**__\
 Last Name, First Name. (Date Interviewed). Interview Type interview. (note: Interview types: personal, email, telephone).
 
 Smith, S. (2011, June 6). Personal Interview.
 
-__**WEBSITE DOCUMENT**__
+__**WEBSITE DOCUMENT**__\
 Author, A.A. or Organization (if available). (Date of publication or n.d.). *Title of page/segment*. Retrieved date (month day, year), from \<URL\>
 
 Amnesty International. (2007). *Ethiopia. Amnesty International Report 2006*. Retrieved January 6, 2007, from <http://web.amnesty.org/report2006/eth-summary-eng>

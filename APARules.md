@@ -36,8 +36,6 @@ The two main bibliography formats used are APA (American Psychological Associati
   - "Source It" - Peel School Boards e-resource <http://cbo-lib=fe01.peelschools.org/SourceIt/index.html>
   - <http://www.citationmachine.net/> or <http://www.bibme.org/> or <http://www.easybib.com/>
 
-\pagebreak
-
 ## __**APA Bibliography Style Formatting**__
 
 The **title of your bibliography** should be: **References**

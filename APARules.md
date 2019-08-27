@@ -40,7 +40,7 @@ The two main bibliography formats used are APA (American Psychological Associati
 
 The **title of your bibliography** should be: **References**
 
-  Some Examples:
+  Some Examples:\
 __**ONE AUTHOR**__\
 Author, A. (Date). *Title*(Edition). Place: Publisher.
 

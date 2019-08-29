@@ -43,7 +43,7 @@ The **title of your bibliography** should be: **References**
 Some Examples:
 
 **ONE AUTHOR**\
-Author, A. (Date). *Title*(Edition). Place: Publisher.
+Author, A. (Date). *Title* (Edition). Place: Publisher.
 
 Rosenthal, R. (1987). *Meta-analytical procedures for social research* (rev. ed.). Newbury Park, CA: Sage.
 
